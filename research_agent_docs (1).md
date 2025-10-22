@@ -831,9 +831,7 @@ This project is licensed under the MIT License - see `LICENSE` file for details.
 
 ### Support
 
-- GitHub Issues: `github.com/your-repo/issues`
-- Email: support@yourproject.com
-- Discord: `discord.gg/your-server`
+- GitHub Issues: `github.com/doozypm/Deep-Research-Agent/issues`
 
 ---
 
@@ -888,5 +886,5 @@ QUERY_TEMPLATES = {
 ---
 
 **Document Version**: 1.0  
-**Last Updated**: 2025-10-11  
-**Author**: Deep Research Team
+**Last Updated**: 2025-10-21  
+**Author**: Pratyush Mishra
