@@ -1,7 +1,7 @@
 # Deep-Research-Agent
 Autonomous research agent capable of conducting comprehensive investigations on individuals or entities to uncover hidden connections, potential risks, and strategic insights
 
-#**GETTING STARTED**
+**GETTING STARTED**
 
 # 1. Install dependencies
 pip install anthropic openai langgraph httpx networkx pydantic
